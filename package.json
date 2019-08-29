@@ -1,0 +1,17 @@
+{
+  "name": "dui",
+  "version": "0.0.1",
+  "description": "react UI",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:manydots/dui.git"
+  },
+  "keywords": [
+    "react",
+    "react UI"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "mo.chen",
+  "license": "MIT"
+}
