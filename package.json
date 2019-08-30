@@ -1,7 +1,11 @@
 {
   "name": "doso-ui",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "react UI",
+  "scripts": {
+    "dz:dev": "docz dev",
+    "dz:build": "docz build"
+  },
   "repository": {
     "type": "git",
     "url": "git@github.com:manydots/dui.git"
@@ -10,8 +14,18 @@
     "react",
     "react UI"
   ],
-  "dependencies": {},
-  "devDependencies": {},
+  "dependencies": {
+    "classnames": "^2.2.6"
+  },
+  "devDependencies": {
+    "docz": "^1.2.0",
+    "docz-plugin-css": "^0.11.0",
+    "docz-theme-default": "^1.2.0",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "ts-loader": "^5.4.5",
+    "typescript": "^3.5.3"
+  },
   "author": "mo.chen",
   "license": "MIT"
 }

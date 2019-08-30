@@ -9,3 +9,7 @@ build
 package-lock.json
 # IDE/Editor data
 .idea
+#docz cache && app
+.docz
+#git
+.git
