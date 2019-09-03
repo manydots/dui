@@ -22,8 +22,13 @@
 
 ```
 
-#### docz
+#### docz(资源已移除可自行配置)
 
 ```
-xx.mdx 可放任意位置
+ 	xx.mdx 可放任意位置
+	
+ 	"docz": "^1.2.0",
+    "docz-plugin-css": "^0.11.0",
+    "docz-theme-default": "^1.2.0",
+
 ```
