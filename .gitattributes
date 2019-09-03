@@ -1,1 +1,1 @@
-*.js linguist-language=TypeScript
+components/**/*.js linguist-language=TypeScript
